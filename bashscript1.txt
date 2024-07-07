@@ -1,0 +1,32 @@
+1.1) cd Documents
+1.2) ls
+1.3) pwd  
+
+2.1) cd Documents
+     mkdir Reports
+2.2) ls
+
+3.1) cd Reports
+     touch monthly_report.txt
+3.2)ls
+
+4.1)rm monthly_report.txt
+4.2)ls   -> no monthly_report is present now
+
+5.1) cp example.txt backup.txt
+5.2) cat backup.txt           -> the content of backup.txt is same as content of example.txt
+
+6.1)sudo apt install nginx
+    sudo systemctl status nginx
+6.2)sudo systemctl start nginx
+
+7.1) cd ..
+     cd ..     
+     ls
+     cd home
+7.2) cd Documents
+     cd Reports
+     
+
+8.1) rm -r Reports
+8.2) ls

@@ -1,0 +1,14 @@
+Name  Age  Department
+John  19   cse
+mohan 30   it
+sam   20   cse
+roha  21   ece
+sam   18   it
+joh   16   cse
+moha  12   eee
+josh  16   cse
+john  18   civil
+thhs  19   me
+mohn  18   civil
+johs  17   cse
+
